@@ -40,24 +40,23 @@
 ### <관리자의 관점>
 #### 관리자로그인
 사용자와 관리자 로그인 버튼을 따로 두어 관리자 전용 로그인을 합니다.
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
+
 #### 제본목록 업로드 및 수정
 관리자(복사집)의 입장에서 현재 제본 가능한 제본 목록과 이와 관련된 정보를 업로드 할 수 있으며, 수정 삭제도 할 수 있습니다.
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
+
 #### 주문내역 확인
 주문내역 페이지를 통해 주문이 얼마나 들어왔는지 확인합니다.
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
+
 #### 입금상태 확인
 주문내역 페이지를 통해 입금이 상태를 확인하고, 상태를 수정할 수 있습니다.
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
 
 
 #### 공지사항 작성 및 수정
 공지사항에 공지를 업로드 가능하며, 수정과 삭제도 할 수 있습니다.
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
+
 #### 질문답변하기
 사용자의 제본과 관련된 문의사항을 받고 이에 대한 답변을 합니다.
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
+
 
 ### <사용자의 관점>
 
