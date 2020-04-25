@@ -38,3 +38,5 @@ return 0;
 강조는 다음과 같이 할 수 있습니다.
 
 **치킨** 먹다가 ~~두드러기~~ 낫어요
+
+![sprinter_logo](https://user-images.githubusercontent.com/48755699/80277519-67ea3580-872a-11ea-8ca7-a2d57ae62e2f.jpg)
