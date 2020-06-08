@@ -10,8 +10,3 @@ def mul(a,b):
 def div(a,b):
 	return a//b  #주석 ////
 	
-def div2(a,b):
-	return a//b  #주석 ////	
-	
-def div343(a,b):
-	return a//b  #주석 ////		
