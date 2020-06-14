@@ -6,16 +6,23 @@
 ## 3월 26일 <소프트웨어공학 프로젝트 팀 빌딩>
 <img src="https://user-images.githubusercontent.com/48755699/84588454-8d5e0a80-ae62-11ea-84ef-7d3d0e658b09.jpg" width="500" height="700">
 
-###팀장 : 유창현
+### 팀장 : 유창현 
+
 ### 팀원 : 이원규, 우승엽, 김한영, 천소현, 권현수
 
 ## 4월 3일 - 6일 <프로젝트 아이디어 선정>
 <img src="https://user-images.githubusercontent.com/48755699/84588713-c7c8a700-ae64-11ea-90d4-20506fea0a1d.jpg" width="500" height="700">
+
 ### 아이디어 브레인스토밍
+
 <img src="https://user-images.githubusercontent.com/48755699/84588756-052d3480-ae65-11ea-960a-f1ecf2dc09c2.jpg" width="500" height="700">
+
 ### 아이디어 투표
+
 <img src="https://user-images.githubusercontent.com/48755699/84588801-3e65a480-ae65-11ea-8745-464976a567b8.jpg" width="500" height="700">
+
 ### 아이디어 선정 결과
+
 
 ## 4월 7일 <제안서 작성 회의>
 <img src="https://user-images.githubusercontent.com/48755699/84588858-b502a200-ae65-11ea-93ed-a48f52fc0143.jpg" width="500" height="700">
