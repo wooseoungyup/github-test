@@ -1,11 +1,10 @@
-![sprinter_logo](https://user-images.githubusercontent.com/48755699/80292823-8f75e800-8794-11ea-810d-10ab4abebf27.jpg)
 # THE PROGRESS OF PROJECT
 프로젝트의 진행상황에 대해서 기술하였습니다.
 
 ---
 
 ## 3월 26일
-여기 사진
+![team_buliding](https://user-images.githubusercontent.com/48755699/84588454-8d5e0a80-ae62-11ea-84ef-7d3d0e658b09.jpg){: width="100" height="100"}
 소프트웨어공학 프로젝트 팀 빌딩
 
 ## 4월 3일 - 6일
