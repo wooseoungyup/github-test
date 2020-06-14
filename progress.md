@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/48755699/84588454-8d5e0a80-ae62-11ea-84ef-7d3d0e658b09.jpg" width="500" height="700">
 
 ###팀장 : 유창현
-###팀원 : 이원규, 우승엽, 김한영, 천소현, 권현수
+### 팀원 : 이원규, 우승엽, 김한영, 천소현, 권현수
 
 ## 4월 3일 - 6일 <프로젝트 아이디어 선정>
 <img src="https://user-images.githubusercontent.com/48755699/84588713-c7c8a700-ae64-11ea-90d4-20506fea0a1d.jpg" width="500" height="700">
@@ -23,13 +23,11 @@
 
 ## 4월 9일 <제안서 피드백>
 <img src="https://user-images.githubusercontent.com/48755699/84588969-820cde00-ae66-11ea-9579-32465f7fe735.jpg" width="500" height="700">
-### 피드백 결과 : 요구사항 기술 좀 더 구체적으로 기술
-###            매수 선택 범위 선택 기능은 주문 요구사항에 포함
-###            번 다운 차트로 보여주면 좋다
+### 피드백 결과 : 요구사항 기술 좀 더 구체적으로 기술 || 매수 선택 범위 선택 기능은 주문 요구사항에 포함 || 번 다운 차트로 보여주면 좋다
 
 ## 4월 11일 <제안서 피드백 관련 회의>
 <img src="https://user-images.githubusercontent.com/48755699/84589084-4aeafc80-ae67-11ea-83df-2bc330f5bb0b.jpg" width="500" height="700">
-### 약 한시간 15분 가량 음성 회의 : 요구사항을 구체적으로 기술 | 번다운 차트 추가 | 매수 범위 선택기능은 요구사항에 포함 
+###약 한시간 15분 가량 음성 회의 : 요구사항을 구체적으로 기술 | 번다운 차트 추가 | 매수 범위 선택기능은 요구사항에 포함 
 
 ## 4월 12일 <발표 피피티 제작>
 <img src="https://user-images.githubusercontent.com/48755699/84589204-001db480-ae68-11ea-8ebb-44660e19e5e2.jpg" width="500" height="500">
