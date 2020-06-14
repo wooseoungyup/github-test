@@ -5,7 +5,7 @@
 
 ## 3월 26일
 <img src="https://user-images.githubusercontent.com/48755699/84588454-8d5e0a80-ae62-11ea-84ef-7d3d0e658b09.jpg" width="500" height="700">
-소프트웨어공학 프로젝트 팀 빌딩
+* 소프트웨어공학 프로젝트 팀 빌딩
 
 팀장 : 유창현
 팀원 : 이원규, 우승엽, 김한영, 천소현, 권현수
