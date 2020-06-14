@@ -1,3 +1,4 @@
+![sprinter_logo](https://user-images.githubusercontent.com/48755699/80292823-8f75e800-8794-11ea-810d-10ab4abebf27.jpg)
 # THE PROGRESS OF PROJECT
 프로젝트의 진행상황에 대해서 기술하였습니다.
 
