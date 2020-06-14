@@ -4,7 +4,6 @@
 ---
 
 ## 3월 26일
-![team_buliding](https://user-images.githubusercontent.com/48755699/84588454-8d5e0a80-ae62-11ea-84ef-7d3d0e658b09.jpg) {: width="100" height="100"}
 <img src="https://user-images.githubusercontent.com/48755699/84588454-8d5e0a80-ae62-11ea-84ef-7d3d0e658b09.jpg" width="500" height="700">
 소프트웨어공학 프로젝트 팀 빌딩
 
